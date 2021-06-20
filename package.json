@@ -1,5 +1,5 @@
 {
-  "name": "TensorGo Task",
+  "name": "users-server",
   "version": "1.0.0",
   "description": "TensorGo-Task - Users",
   "main": "index.js",
